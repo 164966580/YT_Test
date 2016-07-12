@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         contentWebView = (WebView) findViewById(R.id.webview);
         contentWebView.getSettings().setJavaScriptEnabled(true);
-        contentWebView.loadUrl("https://www.baidu.com/");
+        contentWebView.loadUrl("http://www.quanjing.com/");
         contentWebView.addJavascriptInterface(new JavascriptInterface(this), "imagelistner");
         contentWebView.setWebViewClient(new MyWebViewClient());
 
