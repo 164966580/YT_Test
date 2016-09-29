@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="reference" name="circularProgressBarStyle"/>
+    <attr name="siArrowPosition">
+        <enum name="left" value="0"/>
+        <enum name="right" value="1"/>
+    </attr>
+    <attr name="siBorderType">
+        <enum name="stroke" value="0"/>
+        <enum name="fill" value="1"/>
+    </attr>
+    <attr name="siStrokeCap">
+        <enum name="butt" value="0"/>
+        <enum name="round" value="1"/>
+        <enum name="square" value="2"/>
+    </attr>
+    <attr name="siStrokeJoin">
+        <enum name="bevel" value="0"/>
+        <enum name="miter" value="1"/>
+        <enum name="round" value="2"/>
+    </attr>
+    <color name="action_bar_txt_color">#969696</color>
+    <color name="actionbar_def_color">#3C3C3C</color>
+    <color name="actionbar_pres_color">#3f80dc</color>
+    <color name="actionbar_sel_color">#1c1c1c</color>
+    <color name="all_members_bg_color">#f0f1f3</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0000FF</color>
+    <color name="chat_detail_hit_color">#3C3C3C</color>
+    <color name="chat_detail_item_hit_color">#555555</color>
+    <color name="chat_text_color">#373334</color>
+    <color name="circular_progressbar_bg_color">#D0D4D8</color>
+    <color name="circular_progressbar_color">#3F80DD</color>
+    <color name="contacts_pinner_bg">#F2F8F8F8</color>
+    <color name="contacts_pinner_txt">#858585</color>
+    <color name="contacts_txt_color">#0479FB</color>
+    <color name="conv_list_split_line_color">#d6d6d6</color>
+    <color name="darkgreen">#006400</color>
+    <color name="default_cursor_color">#8db4eb</color>
+    <color name="dialog_select_color">#d4d4d4</color>
+    <color name="finish_btn_clickable_color">#6fd66b</color>
+    <color name="finish_btn_unclickable_color">#b9ebb8</color>
+    <color name="friend_content_text_color">#7f7f7f</color>
+    <color name="gray">#808080</color>
+    <color name="green">#008000</color>
+    <color name="grey">#808080</color>
+    <color name="header_normal">#ffe74c3c</color>
+    <color name="header_pressed">#ffc0392b</color>
+    <color name="item_click_bg_color">#dddddd</color>
+    <color name="jmui_chat_detail_split_line_color">#d3d3d3</color>
+    <color name="jmui_jpush_blue">#3f80dc</color>
+    <color name="jmui_reset_password_title_color">#4e4e4e</color>
+    <color name="leter_hint_end_color">#0ae936</color>
+    <color name="letter_hint_start_color">#19892f</color>
+    <color name="light_blue">#8CA4FF</color>
+    <color name="login_btn_def_color">#98FB98</color>
+    <color name="login_btn_sel_color">#006400</color>
+    <color name="login_split_line_color">#c1d3cc</color>
+    <color name="login_txt_hint_color">#555555</color>
+    <color name="main_view_split_line_color">#C8C8C8</color>
+    <color name="me_info_edit_color">#2d2d2d</color>
+    <color name="me_info_hint_color">#cfcdce</color>
+    <color name="me_no_picture_color">#e1e1e1</color>
+    <color name="me_split_line_color">#d0d0d0</color>
+    <color name="menu_item_back_pres_color">#3773cb</color>
+    <color name="menu_item_click_color">#346fc3</color>
+    <color name="menu_section_header">#FFDDDDDD</color>
+    <color name="msg_list_item_sel_color">#A3C2EF</color>
+    <color name="network_disconnected_bg_color">#ffdfe0</color>
+    <color name="re_login_btn_def_color">#6fd66b</color>
+    <color name="regist_photo_focus_color">#3F80DD</color>
+    <color name="register_split_line_color">#c2d4ec</color>
+    <color name="relogin_txt_color">#555555</color>
+    <color name="section_color">#f8f8f8</color>
+    <color name="section_text_color">#858585</color>
+    <color name="select_friend_item_split_color">#dddddd</color>
+    <color name="sidebar_text_color">#0a6afd</color>
+    <color name="swich_user_sel_color">#3F80DC</color>
+    <color name="titlebar_bg_color">#3C3C3C</color>
+    <color name="translucent_background">#60000000</color>
+    <color name="white">#FFFFFF</color>
+    <declare-styleable name="HoloCircularProgressBar"><attr format="dimension" name="stroke_width"/><attr format="float" name="progress"/><attr format="float" name="marker_progress"/><attr format="color" name="progress_color"/><attr format="color" name="progress_background_color"/><attr format="boolean" name="thumb_visible"/><attr format="boolean" name="marker_visible"/><attr name="android:gravity"/></declare-styleable>
+    <declare-styleable name="ShaderImageView"><attr name="siArrowPosition"/><attr format="float" name="siBorderAlpha"/><attr format="color" name="siBorderColor"/><attr name="siBorderType"/><attr format="dimension" name="siBorderWidth"/><attr format="integer|reference" name="siForeground"/><attr format="dimension" name="siRadius"/><attr format="integer|reference" name="siShape"/><attr format="boolean" name="siSquare"/><attr name="siStrokeCap"/><attr name="siStrokeJoin"/><attr format="dimension" name="siStrokeMiter"/><attr format="dimension" name="siTriangleHeight"/></declare-styleable>
+    <declare-styleable name="StickyListHeadersListView"><attr format="reference" name="stickyListHeadersListViewStyle"/><attr name="android:clipToPadding"/><attr name="android:scrollbars"/><attr name="android:overScrollMode"/><attr name="android:padding"/><attr name="android:paddingLeft"/><attr name="android:paddingTop"/><attr name="android:paddingRight"/><attr name="android:paddingBottom"/><attr name="android:fadingEdgeLength"/><attr name="android:requiresFadingEdge"/><attr name="android:cacheColorHint"/><attr name="android:choiceMode"/><attr name="android:drawSelectorOnTop"/><attr name="android:fastScrollEnabled"/><attr name="android:fastScrollAlwaysVisible"/><attr name="android:listSelector"/><attr name="android:scrollingCache"/><attr name="android:scrollbarStyle"/><attr name="android:divider"/><attr name="android:dividerHeight"/><attr name="android:transcriptMode"/><attr name="android:stackFromBottom"/><attr format="boolean" name="hasStickyHeaders"/><attr format="boolean" name="isDrawingListUnderStickyHeader"/></declare-styleable>
+    <declare-styleable name="drop_down_list_attr"><attr format="boolean" name="isAutoLoadOnBottom"/><attr format="boolean" name="isDropDownStyle"/><attr format="boolean" name="isOnBottomStyle"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="add_friend_txt_size">18sp</dimen>
+    <dimen name="chat_head_icon_size">40dp</dimen>
+    <dimen name="contact_item_padding_left">5dp</dimen>
+    <dimen name="default_btn_radius">5dp</dimen>
+    <dimen name="default_padding_bottom">5dp</dimen>
+    <dimen name="default_padding_left">15dp</dimen>
+    <dimen name="default_padding_right">15dp</dimen>
+    <dimen name="default_padding_top">5dp</dimen>
+    <dimen name="drop_down_list_header_padding_bottom">5dp</dimen>
+    <dimen name="drop_down_list_header_padding_top">12dp</dimen>
+    <dimen name="drop_down_list_header_progress_bar_height">36dp</dimen>
+    <dimen name="drop_down_list_header_release_min_distance">0dp</dimen>
+    <dimen name="item_head_icon_size">50dp</dimen>
+    <dimen name="login_email_txt_size">18sp</dimen>
+    <dimen name="login_regist_head_icon_size">80dp</dimen>
+    <dimen name="me_head_icon_size">75dp</dimen>
+    <dimen name="msg_del_offset">70dp</dimen>
+    <dimen name="save_btn_height">30dp</dimen>
+    <dimen name="text_default_size">12sp</dimen>
+    <dimen name="text_large_size">22sp</dimen>
+    <dimen name="text_medium_size">18sp</dimen>
+    <dimen name="text_minimum_size">10sp</dimen>
+    <dimen name="text_normal_size">16sp</dimen>
+    <dimen name="text_small_size">14sp</dimen>
+    <dimen name="title_bar_height">40dp</dimen>
+    <dimen name="title_bar_txt_size">20sp</dimen>
+    <dimen name="view_left_right_padding">28dp</dimen>
+    <integer name="loading_frame_interval">80</integer>
+    <string name="about">关于</string>
+    <string name="about_date">\n6月28日</string>
+    <string name="actionbar_contact">通讯录</string>
+    <string name="actionbar_conversation">会话</string>
+    <string name="actionbar_me">我</string>
+    <string name="actionbar_msg">聊天</string>
+    <string name="add">添加</string>
+    <string name="add_friend">添加朋友</string>
+    <string name="add_friend_to_group_title">添加好友到群组</string>
+    <string name="add_to_blacklist">加入黑名单</string>
+    <string name="add_to_blacklist_success_hint">成功加入黑名单</string>
+    <string name="add_to_friend">加为好友</string>
+    <string name="added">已添加</string>
+    <string name="adding_group_member_hint">正在增加群成员</string>
+    <string name="adding_hint">正在添加</string>
+    <string name="all_day_remind_hit">全天提醒</string>
+    <string name="all_group_members">全部群成员</string>
+    <string name="app_name">极光IM</string>
+    <string name="area">地区</string>
+    <string name="avatar_modify_succeed_toast">头像修改成功</string>
+    <string name="background_msg_remind_time">后台消息免打扰时段</string>
+    <string name="begin_time">开始时间</string>
+    <string name="birthday">出生日期</string>
+    <string name="camera_not_prepared">摄像头尚未准备好</string>
+    <string name="change_avatar">修改头像</string>
+    <string name="change_nickname_hint">修改此昵称只会在本群中显示</string>
+    <string name="change_old_password_hit">原密码</string>
+    <string name="change_password">修改密码</string>
+    <string name="change_password_hit">填写密码</string>
+    <string name="change_password_message">您的密码已被修改，请重新登录</string>
+    <string name="change_password_re_hit">再次填写密码</string>
+    <string name="change_password_title">设置密码</string>
+    <string name="change_user_btn">切换账号</string>
+    <string name="chat_detail_add">添加</string>
+    <string name="chat_detail_title">聊天详情</string>
+    <string name="chat_peoples_num">目前已有1名参与人</string>
+    <string name="choose">选择</string>
+    <string name="choose_album_title">选择相册</string>
+    <string name="close_all_day_remind">关闭全天提醒后，消息只在设定时间内提醒</string>
+    <string name="combine_title">(%s)</string>
+    <string name="commit">确认</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="connect_failed_toast">连接服务器失败，请稍后重试</string>
+    <string name="create_group">创建群聊</string>
+    <string name="create_user">我们正在建立您的个人档案</string>
+    <string name="creating_hint">创建中</string>
+    <string name="crop_image_title">裁剪头像</string>
+    <string name="cross_app_key">跨应用</string>
+    <string name="delete_group_by_creator">群主解散了此群</string>
+    <string name="deleted_by_creator">你被请出了群聊</string>
+    <string name="deleting_group_member_hint">正在删除群成员</string>
+    <string name="deleting_hint">删除中</string>
+    <string name="demo_version_name">demo版本号:%s</string>
+    <string name="description">描述</string>
+    <string name="detail_info">个人资料</string>
+    <string name="disturb_description">开启后，在设定时间段内收到新消息将不会响铃或震动</string>
+    <string name="download_completed_toast">下载完成</string>
+    <string name="downloading_hint">正在下载</string>
+    <string name="draft">[草稿]</string>
+    <string name="edit_friend_info_count">200</string>
+    <string name="edit_signature_count">30</string>
+    <string name="edit_signature_title">编辑个性签名</string>
+    <string name="end_time">结束时间</string>
+    <string name="exit_group_by_creator">被请出了群聊</string>
+    <string name="exit_group_event">退出了群聊</string>
+    <string name="exiting_group_toast">正在退出</string>
+    <string name="fetch_user_info_failed">用户信息获取失败</string>
+    <string name="file_fetch_failed">文件获取失败</string>
+    <string name="finish">完成</string>
+    <string name="friend_info">好友信息</string>
+    <string name="friend_opt_change_name">修改备注</string>
+    <string name="friend_opt_delete">删除好友</string>
+    <string name="friend_opt_detail">详细资料</string>
+    <string name="friend_request_hit">请你输入你的添加好友请求</string>
+    <string name="friend_request_input_hit">我是…</string>
+    <string name="friend_request_title">新朋友</string>
+    <string name="get_photo">　使用照片</string>
+    <string name="group">群聊</string>
+    <string name="group_chat_history_hit">查找聊天内容</string>
+    <string name="group_clear_history_hit">清空聊天记录</string>
+    <string name="group_exit_btn">删除并退出</string>
+    <string name="group_my_name_hit">我在本群昵称</string>
+    <string name="group_name_hit">群聊名称</string>
+    <string name="group_name_not_null_toast">名称不能为空</string>
+    <string name="group_notification">[群成员变动]</string>
+    <string name="group_people_num_hit">群人数上限</string>
+    <string name="hint_confirm_password">请再次输入</string>
+    <string name="hint_reset_password">请设置登录密码</string>
+    <string name="hundreds_of_unread_msgs">...</string>
+    <string name="info_null">未填写</string>
+    <string name="input_area_error">请输入您所在的地区</string>
+    <string name="input_location_title">输入地区</string>
+    <string name="input_signature_toast">请输入您的个性签名</string>
+    <string name="jmui_afternoon">下午</string>
+    <string name="jmui_before_dawn">凌晨</string>
+    <string name="jmui_business_card">名片</string>
+    <string name="jmui_cancel">取消</string>
+    <string name="jmui_cancel_record_voice_hint">松开手指，取消发送</string>
+    <string name="jmui_change_pwd_tip">修改密码前请输入原密码</string>
+    <string name="jmui_clear_history_confirm_title">确定清空聊天记录？</string>
+    <string name="jmui_confirm">确定</string>
+    <string name="jmui_copy">复制</string>
+    <string name="jmui_copy_toast">已复制</string>
+    <string name="jmui_create_file_failed">创建文件失败</string>
+    <string name="jmui_day">日</string>
+    <string name="jmui_delete">删除</string>
+    <string name="jmui_delete_confirm_hint">确定删除？</string>
+    <string name="jmui_delete_conv">删除该聊天</string>
+    <string name="jmui_delete_group_confirm_title">确定删除并退出群聊？</string>
+    <string name="jmui_delete_member_confirm_hint">确定删除此成员？</string>
+    <string name="jmui_file_not_found_toast">文件丢失, 尝试重新获取</string>
+    <string name="jmui_forward_msg">转发</string>
+    <string name="jmui_friday">周五</string>
+    <string name="jmui_illegal_state_toast">录音状态异常,请稍后重试</string>
+    <string name="jmui_input_password_error_toast">输入密码错误，请重新输入</string>
+    <string name="jmui_loading">正在加载</string>
+    <string name="jmui_local_picture_not_found_toast">暂无外部存储，某些本地图片不可预览</string>
+    <string name="jmui_location">位置</string>
+    <string name="jmui_logout_confirm">确定退出登录？</string>
+    <string name="jmui_monday">周一</string>
+    <string name="jmui_month">月</string>
+    <string name="jmui_morning">早上</string>
+    <string name="jmui_move_to_cancel_hint">手指上滑，取消发送</string>
+    <string name="jmui_night">晚上</string>
+    <string name="jmui_pick_picture_from_local">选择图片</string>
+    <string name="jmui_picture">图片</string>
+    <string name="jmui_record_voice_hint">按住 说话</string>
+    <string name="jmui_record_voice_permission_denied">请在应用的权限管理中将使用录音选项设置为允许，
+        否则将无法使用录音功能</string>
+    <string name="jmui_record_voice_permission_request">若要使用语音功能，请选择允许录音</string>
+    <string name="jmui_resend_commit">重发</string>
+    <string name="jmui_resend_message_hint">重发该消息？</string>
+    <string name="jmui_rest_record_time_hint">还可以说%s秒</string>
+    <string name="jmui_saturday">周六</string>
+    <string name="jmui_sdcard_not_exist_toast">暂无外部存储</string>
+    <string name="jmui_sdk_87x_871104">服务器返回错误</string>
+    <string name="jmui_sdk_87x_871201">请求超时，请检查您的网络</string>
+    <string name="jmui_sdk_87x_871300">API调用发起者尚未登录</string>
+    <string name="jmui_sdk_87x_871303">用户名需以数字或字母开头，长度在4-128个字节之间，且不能带_ @ -以外的字符</string>
+    <string name="jmui_sdk_87x_871304">密码长度要在4-128个字节之间</string>
+    <string name="jmui_sdk_87x_871305">名称长度须小于64个字节</string>
+    <string name="jmui_sdk_87x_871309">消息所含文件不存在</string>
+    <string name="jmui_sdk_87x_871310">网络已断开，请检查网络连接</string>
+    <string name="jmui_sdk_87x_871311">用户未设定头像，下载头像失败</string>
+    <string name="jmui_sdk_87x_871312">ImageContent创建失败</string>
+    <string name="jmui_sdk_87x_871403">第三方上传失败，请稍后重试</string>
+    <string name="jmui_sdk_87x_871404">下载失败，请稍后重试</string>
+    <string name="jmui_sdk_87x_871501">appkey与appid不匹配或者token无效</string>
+    <string name="jmui_sdk_87x_871502">appkey无效</string>
+    <string name="jmui_sdk_87x_871503">appkey与platform不匹配</string>
+    <string name="jmui_sdk_87x_871504">push注册还未完成，请稍后重试</string>
+    <string name="jmui_sdk_87x_871505">包名不存在</string>
+    <string name="jmui_sdk_87x_871506">imei无效</string>
+    <string name="jmui_sdk_http_898005">uid不存在</string>
+    <string name="jmui_sdk_http_898006">此群已被删除</string>
+    <string name="jmui_sdk_http_898008">校验失败</string>
+    <string name="jmui_sdk_http_898009">APPKey不存在</string>
+    <string name="jmui_sdk_http_898010">请求失败，请稍候重试</string>
+    <string name="jmui_sdk_http_898030">系统繁忙，稍后重试</string>
+    <string name="jmui_sdk_http_899001">用户已存在</string>
+    <string name="jmui_send">发送</string>
+    <string name="jmui_send_voice_hint">松开 结束</string>
+    <string name="jmui_server_800002">AppKey信息为空</string>
+    <string name="jmui_server_800003">AppKey未注册</string>
+    <string name="jmui_server_800004">用户ID为空</string>
+    <string name="jmui_server_800005">用户ID未注册(AppKey无该UID)</string>
+    <string name="jmui_server_800006">用户ID不存在(数据库中无该UID)</string>
+    <string name="jmui_server_800012">请重新登录</string>
+    <string name="jmui_server_800013">您的账号已登出，请重新登录</string>
+    <string name="jmui_server_800014">发起的用户与目标用户appkey不匹配</string>
+    <string name="jmui_server_801003">用户名不存在</string>
+    <string name="jmui_server_801004">密码错误</string>
+    <string name="jmui_server_802001">用户名为空</string>
+    <string name="jmui_server_803001">发送消息失败，状态存储异常</string>
+    <string name="jmui_server_803002">发送消息失败，系统网络异常</string>
+    <string name="jmui_server_803003">发送失败，目标用户未注册或不存在</string>
+    <string name="jmui_server_803004">发送失败，此群已被删除</string>
+    <string name="jmui_server_803005">您已被请出此群，不能发送消息</string>
+    <string name="jmui_server_803008">消息已发出，但被对方拒收了。</string>
+    <string name="jmui_server_803010">发送消息的频率超过限制，发送失败</string>
+    <string name="jmui_server_808003">讨论组数量已达上限，创建失败</string>
+    <string name="jmui_server_808004">群组名长度超出上限</string>
+    <string name="jmui_server_810003">用户不属于该群组</string>
+    <string name="jmui_server_810005">要添加的用户尚未注册</string>
+    <string name="jmui_server_810007">用户已存在</string>
+    <string name="jmui_server_810008">讨论组的成员数量已达上限，添加失败</string>
+    <string name="jmui_server_810009">该用户拥有的讨论组数量已达上限，添加失败</string>
+    <string name="jmui_server_811003">用户不在该讨论组中，删除成员失败</string>
+    <string name="jmui_server_812002">您已被请出此群，不能修改相关信息</string>
+    <string name="jmui_server_818001">要添加的黑名单列表为空，添加失败</string>
+    <string name="jmui_server_818002">要添加的黑名单列表中有成员不存在，添加失败</string>
+    <string name="jmui_server_818003">要添加的黑名单列表中有成员不能被添加，添加失败</string>
+    <string name="jmui_server_818004">要添加的黑名单列表中有成员重复添加，添加失败</string>
+    <string name="jmui_sunday">周日</string>
+    <string name="jmui_symbol_second">\"</string>
+    <string name="jmui_take_new_photo">拍摄照片</string>
+    <string name="jmui_take_photo">拍照</string>
+    <string name="jmui_thursday">周四</string>
+    <string name="jmui_time_format_accuracy">yyyy-MM-dd HH:mm </string>
+    <string name="jmui_time_format_hours">HH:mm</string>
+    <string name="jmui_time_format_year_month_day">yyyy年-MM月-dd日</string>
+    <string name="jmui_time_too_short_toast">时间太短！</string>
+    <string name="jmui_tuesday">周二</string>
+    <string name="jmui_user_already_exist_toast">该用户已存在</string>
+    <string name="jmui_video">视频</string>
+    <string name="jmui_voice_fetch_failed_toast">获取语音失败，请重试</string>
+    <string name="jmui_voice_length">10"</string>
+    <string name="jmui_wednesday">周三</string>
+    <string name="jmui_yesterday">昨天</string>
+    <string name="join_group_toast">加入了群聊</string>
+    <string name="later_setting">稍后设置</string>
+    <string name="load_failed_toast">加载失败</string>
+    <string name="load_origin_image">查看原图</string>
+    <string name="login">登录</string>
+    <string name="login_hint">登录中</string>
+    <string name="login_out">退出登录</string>
+    <string name="man">男</string>
+    <string name="members_in_chat">聊天成员</string>
+    <string name="modify_success_toast">修改成功</string>
+    <string name="modifying_hint">正在修改</string>
+    <string name="network_disconnected_hint">当前网络不可用, 请检查你的网络设置</string>
+    <string name="new_msg_remind_hit">新消息提醒</string>
+    <string name="nickname_hit">昵称</string>
+    <string name="nickname_not_null_toast">昵称不能为空</string>
+    <string name="nickname_save_failed">昵称保存失败</string>
+    <string name="no_disturb_global_hit">全局免打扰</string>
+    <string name="not_select_photo">你没有选择照片，请重新选择</string>
+    <string name="note_name">备注名</string>
+    <string name="operation">操作</string>
+    <string name="origin_picture">原图</string>
+    <string name="parameter_illegal">参数值不合法</string>
+    <string name="password">密码</string>
+    <string name="password_change_success_toast">修改成功，请牢记新密码</string>
+    <string name="password_hit">用户密码</string>
+    <string name="password_length_illegal">密码长度要在4-128个字节之间</string>
+    <string name="password_not_match_toast">两次输入的密码不一致</string>
+    <string name="password_not_null_toast">密码不能为空</string>
+    <string name="password_same_to_previous">不能和原密码相同，请输入新密码</string>
+    <string name="picture_not_found">没有找到您想要的图片</string>
+    <string name="picture_num_limit_toast">你最多只能同时发送9张图片</string>
+    <string name="receive_new_msg_notification_hit">接收新消息通知</string>
+    <string name="receive_new_msg_vibration_hit">震动</string>
+    <string name="receive_new_msg_voice_hit">声音</string>
+    <string name="register">注册</string>
+    <string name="register_failed_toast">注册失败</string>
+    <string name="register_username_hit">用户名(数字、字母、_ 组成)</string>
+    <string name="registering_hint">注册中</string>
+    <string name="remove_from_blacklist_hint">已从黑名单移除</string>
+    <string name="remove_from_no_disturb_list_hint">已移除免打扰</string>
+    <string name="remove_no_disturb_global_succeed">已移除全局免打扰</string>
+    <string name="reset_nickname_hint">好名字可以让你的朋友更加容易记住你。</string>
+    <string name="save">保存</string>
+    <string name="saving_hint">正在保存</string>
+    <string name="sdcard_not_prepare_toast">sdcard尚未准备好</string>
+    <string name="sdk_http_899006">该群已被删除</string>
+    <string name="sdk_version">\nsdk版本号:</string>
+    <string name="search">搜索...</string>
+    <string name="search_friend_hit">邮箱/用户名/ID</string>
+    <string name="search_friend_title_bar">搜索结果</string>
+    <string name="searching_user">正在查找</string>
+    <string name="second">秒</string>
+    <string name="select_friend_title">选择朋友</string>
+    <string name="selected_num">(%s)</string>
+    <string name="send_message">发消息</string>
+    <string name="send_request">发送请求</string>
+    <string name="sending_hint">正在发送</string>
+    <string name="server_abnormal_toast">服务器返回异常，请重试</string>
+    <string name="server_return_error_toast">服务器返回格式错误</string>
+    <string name="set_do_not_disturb">消息免打扰</string>
+    <string name="set_do_not_disturb_success_hint">成功加入免打扰</string>
+    <string name="set_no_disturb_global_succeed">全局免打扰设置成功</string>
+    <string name="setting">设置</string>
+    <string name="setting_location_big_hit">修改地区</string>
+    <string name="setting_location_hit">地区</string>
+    <string name="setting_signature_hit">个信签名</string>
+    <string name="setting_username_big_hit">更改名字</string>
+    <string name="setting_username_hit">昵称</string>
+    <string name="sex">性别</string>
+    <string name="sign">个性签名</string>
+    <string name="system_error_toast">系统内部错误，请稍候重试</string>
+    <string name="take_monent">稍等片刻</string>
+    <string name="type_custom">[自定义消息]</string>
+    <string name="type_location">[位置]</string>
+    <string name="type_picture">[图片]</string>
+    <string name="type_voice">[语音]</string>
+    <string name="unknown">未知</string>
+    <string name="unknown_error_toast">未知错误</string>
+    <string name="unnamed">未命名</string>
+    <string name="updating_avatar_hint">正在上传头像</string>
+    <string name="upload_avatar_title">请选择上传头像方式</string>
+    <string name="user_add_self_toast">不能添加自己为好友</string>
+    <string name="user_delete_hint_message">您的账号已被删除，您被迫下线</string>
+    <string name="user_logout_dialog_message">您的账号已经在另一台设备上登录，您被迫下线</string>
+    <string name="user_logout_dialog_title">下线提示</string>
+    <string name="user_not_exist_toast">该用户不存在</string>
+    <string name="username_hit">用户名</string>
+    <string name="username_not_null_toast">用户名不能为空</string>
+    <string name="woman">女</string>
+    <string name="year">年</string>
+    <style name="ActionBarItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingTop">7dp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:textColor">@color/action_bar_txt_color</item>
+        <item name="android:background">#3C3C3C</item>
+        <item name="android:textSize">@dimen/text_minimum_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="AnimFade" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_from_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_to_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_to_right</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_in_from_left</item>
+    </style>
+    <style name="BaseDialog">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="ChatDetailArrow">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:background">@drawable/arrow</item>
+    </style>
+    <style name="ChatDetailItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">55dp</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@drawable/jmui_list_item_bg</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="ChatDetailItemContent">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingLeft">45dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">right</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:textColorHint">@color/gray</item>
+    </style>
+    <style name="ChatDetailItemHit">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginLeft">15dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/chat_detail_item_hit_color</item>
+    </style>
+    <style name="ChatItemOptionItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/jmui_list_item_bg</item>
+        <item name="android:clickable">true</item>
+        <item name="android:padding">15dp</item>
+    </style>
+    <style name="CircularProgressBar">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="stroke_width">1dp</item>
+        <item format="float" name="progress">0.1</item>
+        <item name="progress_color">#3F80DD</item>
+        <item name="progress_background_color">#D0D4D8</item>
+        <item name="marker_visible">true</item>
+        <item name="thumb_visible">false</item>
+    </style>
+    <style name="HorizontalSlide" parent="android:Theme.NoTitleBar">
+        <item name="android:windowAnimationStyle">@style/AnimFade</item>
+    </style>
+    <style name="MeInfoItemContent">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingLeft">50dp</item>
+        <item name="android:paddingRight">5dp</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:gravity">right</item>
+        <item name="android:singleLine">false</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#808080</item>
+    </style>
+    <style name="MeItemStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingTop">15dp</item>
+        <item name="android:paddingBottom">15dp</item>
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:background">@drawable/jmui_list_item_bg</item>
+        <item name="android:clickable">true</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal </item>
+    </style>
+    <style name="MyDialogStyle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="SettingItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingBottom">15dp</item>
+        <item name="android:paddingTop">15dp</item>
+        <item name="android:background">@drawable/jmui_list_item_bg</item>
+    </style>
+    <style name="SettingItemHit">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="SettingItemStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">55dp</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:background">@drawable/jmui_list_item_bg</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="SettingItemSubTitle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingBottom">7dp</item>
+        <item name="android:paddingTop">7dp</item>
+        <item name="android:textColor">#888888</item>
+    </style>
+    <style name="SettingItemSwitch">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+    <style name="SettingItemTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="SexSettingDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="TimePicker">
+        <item name="android:editTextStyle">@style/Widget.EditText.White</item>
+    </style>
+    <style name="Widget.EditText.White" parent="@android:style/Widget.EditText">
+        <item name="android:textColor">#1a1a1a</item>
+    </style>
+    <style name="chat_content_date_style">
+        <item name="android:minHeight">50dp</item>
+        <item name="android:gravity">left|center</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:background">#bfbfbf</item>
+    </style>
+    <style name="default_check_box_style" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:background">@drawable/default_check_box_style</item>
+        <item name="android:button">@null</item>
+    </style>
+    <style name="default_input_style">
+        <item name="android:padding">5dp</item>
+        <item name="android:textSize">@dimen/text_medium_size</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:maxLength">64</item>
+        <item name="android:background">@drawable/invisible_input_bg</item>
+    </style>
+    <style name="default_input_style_with_bg">
+        <item name="android:padding">5dp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:maxLength">64</item>
+        <item name="android:focusable">true</item>
+        <item name="android:background">@drawable/default_input_bg</item>
+    </style>
+    <style name="edit_note_name_txt_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#d0cecf</item>
+    </style>
+    <style name="group_setting_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="info_left_txt_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:textColor">#555555</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="info_right_txt_style">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">right</item>
+        <item name="android:paddingLeft">50dp</item>
+        <item name="android:paddingRight">15dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/friend_content_text_color</item>
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+    <style name="jmui_chat_content_style">
+        <item name="android:gravity">left|center</item>
+        <item name="android:textColor">#373334</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:background">#bfbfbf</item>
+    </style>
+    <style name="jmui_chat_display_name_style">
+        <item name="android:ems">5</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">#545454</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="jmui_chat_item_receive_layout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="jmui_chat_item_receiver_avatar_style">
+        <item name="android:layout_width">@dimen/item_head_icon_size</item>
+        <item name="android:layout_height">@dimen/item_head_icon_size</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:src">@drawable/jmui_head_icon</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="jmui_chat_item_send_layout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="jmui_chat_item_sender_avatar_style">
+        <item name="android:layout_width">@dimen/item_head_icon_size</item>
+        <item name="android:layout_height">@dimen/item_head_icon_size</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:src">@drawable/jmui_head_icon</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="jmui_chat_text_date_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+        <item name="android:paddingTop">2dp</item>
+        <item name="android:paddingBottom">2dp</item>
+        <item name="android:textColor">#555756</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="jmui_chat_text_name_style">
+        <item name="android:textColor">#818181</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="jmui_default_dialog_style">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:radius">5dp</item>
+    </style>
+    <style name="jmui_dialog_msg_alert_txt_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:textSize">@dimen/text_medium_size</item>
+        <item name="android:textColor">#4e4e4e</item>
+        <item name="android:gravity">left|center_vertical</item>
+    </style>
+    <style name="jmui_drop_down_list_header_progress_bar_style">
+    <item name="android:minHeight">@dimen/drop_down_list_header_progress_bar_height</item>
+    <item name="android:maxHeight">@dimen/drop_down_list_header_progress_bar_height</item>
+    </style>
+    <style name="jmui_loading_dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="jmui_msg_text_style">
+        <item name="android:maxWidth">225dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:textColor">@color/chat_text_color</item>
+    </style>
+    <style name="jmui_record_voice_dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowBackground">@drawable/round_background</item>
+    </style>
+    <style name="login_dialog_style">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="noTitle" parent="android:Theme.NoTitleBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowAnimationStyle">@style/AnimFade</item>
+    </style>
+    <style name="round_check_box_style" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:background">@drawable/round_check_box_bg</item>
+        <item name="android:button">@null</item>
+    </style>
+</resources>

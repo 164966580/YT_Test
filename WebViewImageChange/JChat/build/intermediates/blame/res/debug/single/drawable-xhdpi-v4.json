@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_business_card.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_business_card.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_pick_picture.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_pick_picture.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/round_check_box_checked.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/round_check_box_checked.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/actionbar_me_sel.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/actionbar_me_sel.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_send_error.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_send_error.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/clear_btn.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/clear_btn.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/slip.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/slip.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_keyboard.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_keyboard.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_back_btn.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_back_btn.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/actionbar_msg_sel.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/actionbar_msg_sel.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/black_list.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/black_list.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/cancel_btn.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/cancel_btn.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_account.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/icon_account.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/voice_1.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/voice_1.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/later_focus.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/later_focus.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_take_photo.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_take_photo.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/change_password.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/change_password.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/take_photo_icon.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/take_photo_icon.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_group_chat_detail.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_group_chat_detail.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_expression1.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_expression1.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/round_check_box_normal.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/round_check_box_normal.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/actionbar_msg.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/actionbar_msg.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/send_msg.9.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/send_msg.9.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/del_btn.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/del_btn.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/username.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/username.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/login_regist.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/login_regist.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/add.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/add.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_mic_1.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_mic_1.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/no_disturb.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/no_disturb.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/friend_sel.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/friend_sel.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/search.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/search.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/send_1.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/send_1.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/receive_1.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/receive_1.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/photo_focus.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/photo_focus.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/take_photo_me.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/take_photo_me.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_mic_2.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_mic_2.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/delete.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/delete.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/unselected.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/unselected.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_mic_5.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_mic_5.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/slip_on.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/slip_on.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/head_icon_girl.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/head_icon_girl.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/chat_detail_add.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/chat_detail_add.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_voice_unread.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_voice_unread.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/slip_off.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/slip_off.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/msg_titlebar_right_btn.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/msg_titlebar_right_btn.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exit.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/exit.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/disconnect_icon.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/disconnect_icon.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/drop_down_menu_bg.9.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/drop_down_menu_bg.9.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/head_icon_boby.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/head_icon_boby.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/selected.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/selected.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_receive_msg.9.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_receive_msg.9.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/area.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/area.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/take_photo_focus.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/take_photo_focus.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/me_man.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/me_man.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/delete_member_pre.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/delete_member_pre.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/close_btn.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/close_btn.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/nickname.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/nickname.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/sex_woman.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/sex_woman.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_more_menu.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_more_menu.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/take_photo_fix_profile.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/take_photo_fix_profile.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_cancel_record.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_cancel_record.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/chat_detail_del.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/chat_detail_del.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_receive_3.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_receive_3.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/birthday.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/birthday.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_head_icon.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_head_icon.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/friend_unsel.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/friend_unsel.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/del_btn_pre.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/del_btn_pre.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/setting.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/setting.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_location.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_location.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/start_chat_arrow.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/start_chat_arrow.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/receive_2.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/receive_2.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_edit_text_bg.9.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_edit_text_bg.9.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/sign.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/sign.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/photo.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/photo.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/take_photo_fix_profile_pre.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/take_photo_fix_profile_pre.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_send_3.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_send_3.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_mic_4.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_mic_4.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/group.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/group.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/delete_member.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/delete_member.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_voice.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_voice.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/clock.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/clock.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/default_check_box_checked.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/default_check_box_checked.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/arrow.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/arrow.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/note_info.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/note_info.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/canceling_record.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/canceling_record.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/sex_man.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/sex_man.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/email.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/email.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/add_pre.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/add_pre.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/later.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/later.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/password.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/password.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/actionbar_contact_sel.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/actionbar_contact_sel.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/add_friend.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/add_friend.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/actionbar_contact.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/actionbar_contact.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_video.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_video.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/title_bar_back.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/title_bar_back.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_mic_3.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_mic_3.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/actionbar_me.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/actionbar_me.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/send_2.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/send_2.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_chat_detail.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_chat_detail.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/recommend.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/recommend.png"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jmui_sending_img.png",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/drawable-xhdpi/jmui_sending_img.png"
+    }
+]

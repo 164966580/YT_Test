@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jmui_chat_item_receive_image.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jmui_chat_item_receive_image.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/pick_picture_total_list_item.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/pick_picture_total_list_item.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/pick_picture_detail_grid_item.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/pick_picture_detail_grid_item.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_crop_image.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_crop_image.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/dialog_login.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/dialog_login.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_notification_setting.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_notification_setting.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_pick_picture_total.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_pick_picture_total.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jmui_dialog_set_avatar.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jmui_dialog_set_avatar.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jmui_drop_down_list_header.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jmui_drop_down_list_header.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_regist.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_regist.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jmui_chat_item_receive_location.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jmui_chat_item_receive_location.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_me_info.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_me_info.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/dialog_add_friend_to_conv_list.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/dialog_add_friend_to_conv_list.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_reset_nick_name.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_reset_nick_name.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jmui_chat_item_group_change.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jmui_chat_item_group_change.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jmui_default_toast.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jmui_default_toast.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jmui_chat_item_receive_text.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jmui_chat_item_receive_text.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/dialog_time_picker.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/dialog_time_picker.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_all_members.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_all_members.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/conv_list_head_view.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/conv_list_head_view.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/fragment_me.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/fragment_me.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jmui_dialog_delete_conv.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jmui_dialog_delete_conv.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jmui_loading_view.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jmui_loading_view.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jmui_chat_item_send_image.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jmui_chat_item_send_image.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jmui_activity_chat.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jmui_activity_chat.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jmui_dialog_base_with_button.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jmui_dialog_base_with_button.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/all_member_item.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/all_member_item.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jmui_dialog_base.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jmui_dialog_base.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/base_bar_without_title.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/base_bar_without_title.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jmui_dialog_reset_password.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jmui_dialog_reset_password.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/select_friend_item.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/select_friend_item.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jmui_dialog_msg_alert.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jmui_dialog_msg_alert.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/group_grid_view_item.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/group_grid_view_item.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jmui_dialog_record_voice.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jmui_dialog_record_voice.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jpush_webview_layout.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jpush_webview_layout.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_friend_info.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_friend_info.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_edit_signature.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_edit_signature.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_re_login.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_re_login.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_image_browser.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_image_browser.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_edit_note_name.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_edit_note_name.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jmui_chat_item_send_text.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jmui_chat_item_send_text.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/head.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/head.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jmui_chat_item_send_location.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jmui_chat_item_send_location.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/menu_title_bar_with_button.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/menu_title_bar_with_button.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jmui_chat_item_receive_voice.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jmui_chat_item_receive_voice.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/fragment_contacts.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/fragment_contacts.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/header.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/header.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/base_title_bar.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/base_title_bar.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_chat_detail.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_chat_detail.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_fix_profile.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_fix_profile.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/fragment_conv_list.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/fragment_conv_list.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_pick_friend.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_pick_friend.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/conversation_list_item.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/conversation_list_item.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_reset_password.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_reset_password.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_create_group.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_create_group.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_setting.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/drop_down_menu.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/drop_down_menu.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jmui_chat_item_send_voice.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jmui_chat_item_send_voice.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/jpush_popwin_layout.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/loading_message_view.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/loading_message_view.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/menu_title_bar.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/menu_title_bar.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_pick_picture_detail.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_pick_picture_detail.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_select_friend.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_select_friend.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/list_view_contact_item.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/list_view_contact_item.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_select_area.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_select_area.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/activity_disturb_setting.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/activity_disturb_setting.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/dialog_set_sex.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/dialog_set_sex.xml"
+    },
+    {
+        "merged": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/build/intermediates/res/merged/debug/layout/dialog_group_setting.xml",
+        "source": "/Users/yutao/YTAPP/YT_Test/WebViewImageChange/JChat/res/layout/dialog_group_setting.xml"
+    }
+]
